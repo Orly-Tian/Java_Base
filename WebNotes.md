@@ -281,7 +281,25 @@ mkdir ./mvn_repo
 <h3 id="mTdcF">3.浏览器访问Web程序，请求处理方法执行</h3>
 ![](https://cdn.nlark.com/yuque/0/2024/png/40678113/1729082689823-e85ac17b-fa74-464c-9e29-25cc98d49efd.png)
 
+<h1 id="OZXqj">6.HTTP</h1>
+HTTP简介：
 
+![](https://cdn.nlark.com/yuque/0/2024/png/40678113/1729688040465-80945bd0-32f0-402a-ba20-069813c5dadc.png)
+
+<h2 id="SxTXo">1.请求协议</h2>
+![](https://cdn.nlark.com/yuque/0/2024/png/40678113/1729688333086-d0b88586-ff3e-4d55-a06a-724f77f0c6e2.png)
+
+<h2 id="G1rML">2.响应协议</h2>
+<h3 id="kyZQT">1.相应协议格式</h3>
+![](https://cdn.nlark.com/yuque/0/2024/png/40678113/1729683548465-9b2b5266-e389-4613-a3bd-b415c62d8210.png)
+
+<h3 id="wDkBy">2.常见响应状态码</h3>
+![](https://cdn.nlark.com/yuque/0/2024/png/40678113/1729683590854-17ebdda5-22ea-4e27-862d-0082a0c9bf6a.png)![](https://cdn.nlark.com/yuque/0/2024/png/40678113/1729683646473-7614cfee-d0b1-48e0-b615-3c97ff49f5f2.png)
+
+状态码大全：[状态 | Status - HTTP 中文开发手册 - 开发者手册 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/chapter/13553)	
+
+<h2 id="At9Rp">3.Tomcat</h2>
+Tomcat官网：[https://tomcat.apache.org/](https://tomcat.apache.org/)
 
 
 
